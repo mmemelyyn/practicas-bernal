@@ -1,0 +1,49 @@
+/*Documento CSS*/
+
+* {margin: 0%;
+padding: 0%;}
+
+ /*person si se ve mal profe, tuve un problema con mis archivos y tuvo qeu reahacer todas las actividades de nuevo*/
+
+body {background-color:#baf7f7;
+        font-family: "Redaction 10", serif; }
+
+    /*ENCABEZADO*/
+
+    h1 {text-transform: uppercase;
+        background-color: #8dd1d1;
+        text-align: center;
+        padding: 20px 0px;}
+
+    h2 {text-transform: uppercase;
+        background-color: #8dd1d1;
+        text-align: center;
+        margin-bottom: 16px;}
+
+        ul {margin-left: 30px;}
+
+       .lista { background-color: #ccfbfb;
+                 width: 80%;
+                 margin: 0px auto;
+                 padding: 16px;}
+          
+       .lugares { background-color: #ccfbfb;
+                 width: 80%;
+                 margin: 0px auto;
+                 padding: 16px;}   
+                 
+        img { margin-right: 15px;
+              margin-top: 15px;
+              margin-bottom: 15px ;
+              float: left;}
+
+        p {line-height: 1.5;
+           padding: 20px 0px;}
+
+       
+ .pie { text-align: center;
+       width: 65%;
+       border-top: solid black 1px; 
+       margin: 250px auto 0px auto;
+       padding:  16px 0px ;}
+     
